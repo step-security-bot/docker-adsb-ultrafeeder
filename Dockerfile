@@ -1,4 +1,4 @@
-FROM ghcr.io/sdr-enthusiasts/docker-tar1090:latest
+FROM ghcr.io/sdr-enthusiasts/docker-tar1090:latest@sha256:95f540d4db0aad73b83e2a652df63dc396eedd056115f2ec0d45a102345058bd
 
 LABEL org.opencontainers.image.source = "https://github.com/sdr-enthusiasts/docker-adsb-ultrafeeder"
 
